@@ -13,6 +13,9 @@ GitHub: monika-shree
 
 📜 Certifications (Included in This Folder)
 
+AWS Cloud Practitioner certificate.pdf
+Completed on Dec 04, 2025.
+
 AWS Cloud Practitioner Essentials Course.pdf
 
 Certificate of Completion for AWS Cloud Practitioner Essentials.
